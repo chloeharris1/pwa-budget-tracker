@@ -27,7 +27,6 @@ Morgan
 
 ## App Link
 
-https://serene-lowlands-72835.herokuapp.com/
 
 ## Questions
 
